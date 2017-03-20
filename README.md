@@ -13,4 +13,5 @@ Simply modify the path to `prm.sh` if necessary, run the script and choose the p
 #### TODO
 
 [ ] Check to see if the project is ended before just stopping it (i.e.: switch statement arguments time!)
+
 [ ] Support more than one shell (write a wrapper for Zsh and Bash [extendible via PRs]?)
