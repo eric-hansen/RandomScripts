@@ -19,6 +19,5 @@ while (( choice < 1 )) {
 
 echo "You are switching to project ${projects[$choice]}..."
 . ~/.tools/prm/prm.sh start "${projects[$choice]}"
-. ~/.tools/prm/prm.sh stop "${projects[$choice]}"
 
 exit 0
